@@ -13,21 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationPlugins.Abstr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "plugins", "plugins", "{BAA94676-D8AB-433F-940A-12177DE4E555}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{956DDD1E-4388-44C9-B7E9-31B7771D94DE}"
-	ProjectSection(SolutionItems) = preProject
-		README.md = README.md
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E06DA8C2-4AC3-43EB-A019-331F7AFD7AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E06DA8C2-4AC3-43EB-A019-331F7AFD7AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E06DA8C2-4AC3-43EB-A019-331F7AFD7AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E06DA8C2-4AC3-43EB-A019-331F7AFD7AED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F598D30D-1D82-48EA-A428-A38C428EBB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F598D30D-1D82-48EA-A428-A38C428EBB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F598D30D-1D82-48EA-A428-A38C428EBB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
