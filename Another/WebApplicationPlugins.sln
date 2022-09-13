@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.32728.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PluginHost", "PluginHost\PluginHost.csproj", "{E06DA8C2-4AC3-43EB-A019-331F7AFD7AED}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationPlugins", "WebApplicationPlugins\WebApplicationPlugins.csproj", "{F598D30D-1D82-48EA-A428-A38C428EBB2A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{3B47C00A-1BFA-455F-A3DA-A8EDB0E84461}"
